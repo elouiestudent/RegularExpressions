@@ -2,6 +2,7 @@
 
 Problem numbers correspond with dictionary index
 31. Determine whether a string is either 0, 100, or 101.
+
 32. Determine whether a given string is a binary string (ie. composed only of 0 and 1 characters).
 33. An integer (sub)string refers to a non-empty (sub)string that will convert to an integer but has no leading 0. Zero is represented as the single digit 0. Given a binary integer string, what regular expression determines whether it is even?
 34. What is a regular expression to determine (ie. match) those words in a text that have at least two vowels?
